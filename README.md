@@ -25,7 +25,7 @@ A Minecraft Avatar for VSeeFace. It uses my skin but I'll include hot to make yo
 1. ["/Assets/Kirbycope.Textures/Eye_Right_Closed.png"](/Assets/Kirbycope.Textures/Eye_Right_Closed.png)
 1. ["/Assets/Kirbycope.Textures/mouth.png"](/Assets/Kirbycope.Textures/mouth.png)
 
-#### Updating the Default Unity Model's Skin
+#### Exporting the VRM
 [Unity](https://unity.com/) will be used to edit this `.vrm` model.
 1. Open the project in Unity
     - This project uses "2021.3.19f1" as defined in ["/ProjectSettings/ProjectVersion.txt"](/ProjectSettings/ProjectVersion.txt)
