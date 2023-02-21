@@ -32,6 +32,7 @@ Save your files to "/Assets/Kirbycope.Textures" for now. This will updated later
 1. In the Project view, selct "Assets" > "Kirbycope.Materials"
 1. Select "UVmap2"
     - In the Inspector view, select the 🔘 between the texture preview and "Lit Color, Alpha", then select your texture
+    - Repeat for the "Shade Color texture
 1. Repeat for "Eye_Left_Closed" and "Eye_Right_Closed"
 1. The the Scene view, select the "Kirbycope" object
 1. Select "VRM" > "UniVRM-0.58.0" > "Export Humanoid"
