@@ -29,7 +29,6 @@ A Minecraft Avatar for VSeeFace. It uses my skin but I'll include hot to make yo
 [Unity](https://unity.com/) will be used to edit this `.vrm` model.
 1. Open the project in Unity
     - This project uses "2021.3.19f1" as defined in ["/ProjectSettings/ProjectVersion.txt"](/ProjectSettings/ProjectVersion.txt)
-1. In the Project view, select "Assets" > "Kirbycope.Materials"
 1. The the Scene view, select the "Kirbycope" object
     - Double-check that the eyes and mouth line up with your model and adjust accordingly
 1. Select "VRM" > "UniVRM-0.58.0" > "Export Humanoid"
