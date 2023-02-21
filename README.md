@@ -1,3 +1,5 @@
+![VSeeFace Minecraft](/vseeface-minecraft.png)
+
 # vseeface-minecraft
 A Minecraft Avatar for VSeeFace. It uses my skin but I'll include hot to make your own.
 
