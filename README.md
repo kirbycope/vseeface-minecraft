@@ -4,7 +4,7 @@
 A Minecraft Avatar for VSeeFace. It uses my skin but I'll include hot to make your own.
 
 ## Using the Avatar
-1. Download the [avatar](/Assets/Kirbycope.vrm)
+1. Download the [avatar](https://github.com/kirbycope/vseeface-minecraft/raw/main/Kirbycope.vrm)
 1. Download [VSeeFace](https://www.vseeface.icu/#download) and unarchive.
 1. In the VSeeFace folder, double-click on "VSeeFace.exe".
 1. Select "Add Avatar" and select Kirbycope.vrm
@@ -38,11 +38,3 @@ Save your files to "/Assets/Kirbycope.Textures" for now. This will updated later
 1. Select "VRM" > "UniVRM-0.58.0" > "Export Humanoid"
 1. Enter a Name, Version, and Author
 1. Select "Export"
-
-#### Updating Your Model's Skin
-Assuming you have completed the previous secion, "Updating the Default Unity Model's Skin".
-1. Open the project in Unity
-1. The the Scene view, select the "Kirbycope" object and delete it
-    - Delete any remaing "Kirbycope" folders
-1. Drag your `.vrm` file into the Assets View
-1. Once imported, drag the Model into the scene
