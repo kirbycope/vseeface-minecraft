@@ -18,9 +18,9 @@ A Minecraft Avatar for VSeeFace. It uses my skin but I'll include hot to make yo
 ### How to Make it Your Own
 
 #### Textures to Edit
-Save your files to "/Assets/Kirbycope.Textures" for now. This will updated later when it's exported.
 1. ["/Assets/Kirbycope.Textures/kirbycope.png"](/Assets/Kirbycope.Textures/kirbycope.png)
-    - Remove the mouth as that'll be a seperate Unity layer (below)
+    - Replace with your avatar (sized 512x512)
+    - Remove your avatar's mouth as that'll be a seperate Unity layer (below)
 1. ["/Assets/Kirbycope.Textures/Eye_Left_Closed.png"](/Assets/Kirbycope.Textures/Eye_Left_Closed.png)
 1. ["/Assets/Kirbycope.Textures/Eye_Right_Closed.png"](/Assets/Kirbycope.Textures/Eye_Right_Closed.png)
 1. ["/Assets/Kirbycope.Textures/mouth.png"](/Assets/Kirbycope.Textures/mouth.png)
@@ -29,12 +29,9 @@ Save your files to "/Assets/Kirbycope.Textures" for now. This will updated later
 [Unity](https://unity.com/) will be used to edit this `.vrm` model.
 1. Open the project in Unity
     - This project uses "2021.3.19f1" as defined in ["/ProjectSettings/ProjectVersion.txt"](/ProjectSettings/ProjectVersion.txt)
-1. In the Project view, selct "Assets" > "Kirbycope.Materials"
-1. Select "UVmap2"
-    - In the Inspector view, select the 🔘 between the texture preview and "Lit Color, Alpha", then select your texture
-    - Repeat for the "Shade Color texture
-1. Repeat for "Eye_Left_Closed" and "Eye_Right_Closed"
+1. In the Project view, select "Assets" > "Kirbycope.Materials"
 1. The the Scene view, select the "Kirbycope" object
+    - Double-check that the eyes and mouth line up with your model and adjust accordingly
 1. Select "VRM" > "UniVRM-0.58.0" > "Export Humanoid"
 1. Enter a Name, Version, and Author
 1. Select "Export"
