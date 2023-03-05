@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ExporterVersion: UniVRM-0.58.0
   Title: Kirbycope
-  Version: 1.0.1
+  Version: 1.0.2
   Author: Kirbycope
   ContactInformation: 
   Reference: 
-  Thumbnail: {fileID: 0}
+  Thumbnail: {fileID: 2800000, guid: 71e487eb0cf6c2747a0851e7dfd36b94, type: 3}
   AllowedUser: 0
   ViolentUssage: 0
   SexualUssage: 0
